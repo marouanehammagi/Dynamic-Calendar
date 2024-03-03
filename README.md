@@ -1,2 +1,2 @@
 Dynamic Calendar : 
-Create a calendar using Javascript/HTML/CSS 
+Creating a calendar using Javascript/HTML/CSS 
