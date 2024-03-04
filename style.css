@@ -14,7 +14,7 @@ body{
     font-style: normal;
 }
 .check{
-    background: blueviolet;
+    background: rgb(118, 59, 173);
     color: #fff;
 }
 .other_month {
@@ -40,18 +40,20 @@ body{
 }
 .hammagi_container .hammagi_calendar .hammagi_header button{
 padding: 6px;
+border-radius: 40%;
 border: none;
-background-color: rgb(95, 13, 172);
+background-color: rgb(88, 66, 112);
 color: #fff;
 cursor: pointer;
+margin-left: 10px;
 }
 .hammagi_container .hammagi_calendar .hammagi_header .hammagi_next_prv{
 display: flex;
 }
 .hammagi_container .hammagi_calendar .hammagi_header .hammagi_next_prv #today{
-margin-left: 10px;
-background-color: blueviolet;
-
+margin-left: 20px;
+background-color: rgb(88, 66, 112);
+border-radius: 20%;
 }
 .hammagi_container .hammagi_calendar .hammagi_switch{
 display: flex;
